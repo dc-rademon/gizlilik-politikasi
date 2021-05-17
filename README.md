@@ -5,7 +5,7 @@ Rademon, Discord bot gizlilik politikası. Bu yazıda hangi verileri ne amaçla 
 # Topladığımız Veriler?
 
 Kullanıcıların e-posta adresleri, kullanıcı kimlikleri (ID) sunucu kimlikleri, kullanıcı adları, sunucu isimleri.
-E-posta verileri ve kayıtları kullanıcının isteğine bağlı olarak depolanır, kullanıcılar dilerseler e-posta adreslerini vermeyebilirşer
+E-posta verileri ve kayıtları kullanıcının isteğine bağlı olarak depolanır, kullanıcılar dilerseler e-posta adreslerini vermeyebilirler
 
 # Ne Amaçla Depolanıyor?
 
